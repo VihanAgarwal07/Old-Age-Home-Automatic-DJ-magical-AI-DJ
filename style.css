@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+    text-align: center;
+}
+.heading{
+    width:100%;
+    font-size: 30px;
+    
+}
+.Note{
+    color:black;
+    font-size: small;
+}
+.Song_Button{
+    font-size: xx-large;
+    color:white;
+    width:10%;
+    height:90px;
+    
+}
+.footer{
+    bottom:0;
+    position:fixed;
+    width: 150%;
+    text-align: center;
+    
+    
+}
